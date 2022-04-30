@@ -1,0 +1,29 @@
+{
+  "name": "best",
+  "version": "1.0.0",
+  "description": "like jest testing framework",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Long Xiao",
+  "license": "MIT",
+  "dependencies": {
+    "jest-haste-map": "^28.0.2",
+    "url": "^0.11.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loogeek/best.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Loogeek/best/issues"
+  },
+  "homepage": "https://github.com/Loogeek/best#readme"
+}
