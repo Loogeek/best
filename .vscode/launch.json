@@ -1,0 +1,7 @@
+{
+  "type": "node",
+  "request": "launch",
+  "name": "best",
+  "runtimeExecutable": "${env:HOME}/.nvm/versions/node/v16.14.2/bin/node",
+  "program": "${workspaceRoot}/src/index.mjs"
+}
